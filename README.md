@@ -186,11 +186,4 @@ model = PeftModel.from_pretrained(base_model, "lora_out")
 
 ---
 
-Agar xohlaysiz, men siz uchun **yana bitta keyingi daraja** tayyorlab beraman:
 
-* AI **o‘zi har paragrafni instruction va response ga ajratadi**, ya’ni manual qo‘yish shart emas.
-* Shu bilan siz **dissertatsiya, ilmiy maqola, tibbiyot va boshqa sohalar** uchun avtomatik dataset hosil qilasiz.
-
----
-
-Agar xohlasang, men shuni keyingi kodini ham yozib beray. Shu qilaylikmi?
